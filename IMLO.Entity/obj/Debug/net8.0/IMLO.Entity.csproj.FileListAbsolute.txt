@@ -1,0 +1,11 @@
+C:\_github\IMLO Code Challenge\IMLO.Entity\bin\Debug\net8.0\IMLO.Entity.deps.json
+C:\_github\IMLO Code Challenge\IMLO.Entity\bin\Debug\net8.0\IMLO.Entity.dll
+C:\_github\IMLO Code Challenge\IMLO.Entity\bin\Debug\net8.0\IMLO.Entity.pdb
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\IMLO.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\IMLO.Entity.AssemblyInfoInputs.cache
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\IMLO.Entity.AssemblyInfo.cs
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\IMLO.Entity.csproj.CoreCompileInputs.cache
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\IMLO.Entity.dll
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\refint\IMLO.Entity.dll
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\IMLO.Entity.pdb
+C:\_github\IMLO Code Challenge\IMLO.Entity\obj\Debug\net8.0\ref\IMLO.Entity.dll

@@ -1,0 +1,6 @@
+@IMLO.API_HostAddress = http://localhost:5063
+
+GET {{IMLO.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

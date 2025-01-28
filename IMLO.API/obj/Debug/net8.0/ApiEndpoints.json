@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "GeneraDatosPMLMayorQueTbFin",
+    "RelativePath": "api/CodeChallenge/GeneraDatosPMLMayorQueTbFin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "GeneraPromedioDiarioPML",
+    "RelativePath": "api/CodeChallenge/GeneraPromedioDiarioPML",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "GetDiferenciaPromedioMDA_MTR",
+    "RelativePath": "api/CodeChallenge/GetDiferenciaPromedioMDA_MTR",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "GetEvolucionMDAMTR",
+    "RelativePath": "api/CodeChallenge/GetEvolucionMDAMTR",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nodo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "GraficaPrecioNodoTBFin",
+    "RelativePath": "api/CodeChallenge/GraficaPrecioNodoTBFin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "ListadoNodosPorFechaHora",
+    "RelativePath": "api/CodeChallenge/ListadoNodosPorFechaHora",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "PrecioNodoEnDlls",
+    "RelativePath": "api/CodeChallenge/PrecioNodoEnDlls",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "PrecioNodoMDA_MTR",
+    "RelativePath": "api/CodeChallenge/PrecioNodoMDA_MTR",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "PrecioPromedioPorNodo",
+    "RelativePath": "api/CodeChallenge/PrecioPromedioPorNodo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "UnionMemTraMdaMtrDet",
+    "RelativePath": "api/CodeChallenge/UnionMemTraMdaMtrDet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IMLO.API.Controllers.CodeChallengeController",
+    "Method": "UnionMemTraMdaMtrTcDet",
+    "RelativePath": "api/CodeChallenge/UnionMemTraMdaMtrTcDet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

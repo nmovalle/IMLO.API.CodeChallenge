@@ -1,0 +1,15 @@
+C:\_github\IMLO Code Challenge\IMLO.Data\bin\Debug\net8.0\IMLO.Data.deps.json
+C:\_github\IMLO Code Challenge\IMLO.Data\bin\Debug\net8.0\IMLO.Data.dll
+C:\_github\IMLO Code Challenge\IMLO.Data\bin\Debug\net8.0\IMLO.Data.pdb
+C:\_github\IMLO Code Challenge\IMLO.Data\bin\Debug\net8.0\IMLO.Entity.dll
+C:\_github\IMLO Code Challenge\IMLO.Data\bin\Debug\net8.0\IMLO.Entity.pdb
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.csproj.AssemblyReference.cache
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.AssemblyInfoInputs.cache
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.AssemblyInfo.cs
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.csproj.CoreCompileInputs.cache
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.csproj.Up2Date
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.dll
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\refint\IMLO.Data.dll
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\IMLO.Data.pdb
+C:\_github\IMLO Code Challenge\IMLO.Data\obj\Debug\net8.0\ref\IMLO.Data.dll
